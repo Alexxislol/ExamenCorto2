@@ -1,0 +1,188 @@
+    .recuadro-redondeado {
+    width: 1426px;
+    height: 679px;
+    background-color: #262832;
+    border-radius: 15px;
+    border: 2px solid #ccc;
+    padding: 20px;
+     }
+
+  .sidebar {
+    width: 250px;
+    height:620px;
+    margin: -50px;
+    border-radius: 15px;
+    background-color: #082836;
+    padding: 50px;
+    color: #ffffff;
+    }
+
+    .mi-div {
+        position: absolute; 
+        top: 20px; 
+        left: 30px;
+        width: 300px;
+        height: 50px;
+        background-color: #ff000000;
+      }
+
+      .mi-div-subti {
+        position: absolute; 
+        top: 50px; 
+        left: 30px;
+        width: 300px;
+        height: 40px;
+        
+        background-color: #ff000000;
+
+      }
+
+      .topbar {
+        width: 1365px;
+        height: 1px;
+        margin: -20px;
+        border-radius: 15px;
+        background-color: #262832;
+        border: 2px solid #000000;
+        padding: 50px;
+        color: #ffffff;
+        }
+
+    .mini-div-mask{
+        position: absolute; 
+        top: 150px; 
+        left: 30px;
+        width: 120px;
+        height: 50px;
+        border-radius: 15px;
+        border: 2px solid #000000;
+        background-color: #262832;
+        line-height: 10px;
+        vertical-align: 50px; 
+        display: inline-block;
+    }
+
+    .mini-div-Plugin{
+        position: absolute; 
+        top: 150px; 
+        left: 200px;
+        width: 120px;
+        height: 50px;
+        border-radius: 15px;
+        border: 2px solid #000000;
+        background-color: #262832;
+        line-height: 10px;
+        vertical-align: 50px; 
+        display: inline-block;
+    }
+
+    .div-conversa{
+        position: absolute; 
+        top: 20px; 
+        left: 365px;
+        width: 300px;
+        height: 50px;
+        border: 2px solid #00000000;
+        background-color: #06060800;
+        line-height: 10px;
+        vertical-align: 50px; 
+        display: inline-block;
+    }
+
+    .div-conversa-2{
+        position: absolute; 
+        top: 45px; 
+        left: 365px;
+        width: 300px;
+        height: 50px;
+        border: 2px solid #00000000;
+        background-color: #06060800;
+        line-height: 10px;
+        vertical-align: 50px; 
+        display: inline-block;
+    }
+
+    .mini-div-nuevaconver{
+        position: absolute; 
+        top: 250px; 
+        left: 30px;
+        border-radius: 15px;
+        width: 300px;
+        height: 100px;
+        border: 2px solid #000000;
+        background-color: #262832;
+        line-height: 10px;
+        vertical-align: 50px; 
+        display: inline-block;
+    }
+
+    .msj0{
+        position: absolute;
+        left: 25px;
+        bottom: 1px;
+    }
+
+    .msj1{
+        position: absolute;
+        left: 210px;
+        bottom: 1px;
+        width: 100px;
+    }
+
+    .msj2{
+        position: absolute;
+        left: 370px;
+        top: 230px;
+        border-radius: 15px;
+        height: 55px;
+        width: 700px;
+        border: 2px solid #000000;
+        background-color: #262832;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .imgumg{
+        position: absolute;
+        height: 70px;
+        top: 28px;
+        left: 280px;
+        filter: brightness(1.1);
+        mix-blend-mode: multiply;
+    }
+
+    .imgumg2{
+        position: absolute;
+        height: 60px;
+        top: 165px;
+        left: 380px;
+        filter: brightness(1.1);
+        mix-blend-mode: multiply;
+    }
+
+    .textbox {
+        position: absolute;
+        padding: 1px;
+        border: 1px solid #ccc;
+        border-radius: 5px 0 0 5px;
+        outline: none;
+        left: 370px;
+        top: 650px;
+        height: 50px;
+        width: 900px;
+        background-color: #262832;
+    }
+
+    .button {
+        position: absolute;
+        padding: 10px 20px;
+        background-color: #082836;
+        border: none;
+        border-radius: 0 5px 5px 0;
+        cursor: not-allowed;
+        left: 1298px;
+        top: 651px;
+        color: #ffffff;
+        height: 50px;
+        width: 100px;
+    }
